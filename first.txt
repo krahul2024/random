@@ -1,1 +1,1 @@
-this is the first file I am trying to upload to github using linux terminal and so far it has not been that good of experience.
+this is the first file I am trying to upload to github using linux terminal and so far it has not been that good of experience.adding something to this again and this should be modified.
